@@ -2,7 +2,7 @@
 var a= 'leap year';
 console.log(a);
 console.log("The Leap year or not");
-let year = 2020;
+let year = 2026;
 let month = 2;
 let days;
 
